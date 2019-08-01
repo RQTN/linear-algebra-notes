@@ -9,10 +9,10 @@
 
 #### Part 1
 
-* [Lec01-方程组的几何解释](https://github.com/RQTN/linear-algebra-notes/blob/master/Lec01-方程组的几何解释.pdf)
-* [Lec02-矩阵消元](https://github.com/RQTN/linear-algebra-notes/blob/master/Lec02-矩阵消元.pdf)
-* [Lec03-乘法和逆矩阵](https://github.com/RQTN/linear-algebra-notes/blob/master/Lec03-乘法和逆矩阵.pdf)
-* [Lec04-A的LU分解](https://github.com/RQTN/linear-algebra-notes/blob/master/Lec04-A的LU分解.pdf)
+* [Lec01-方程组的几何解释](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec01-方程组的几何解释.pdf)
+* [Lec02-矩阵消元](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec02-矩阵消元.pdf)
+* [Lec03-乘法和逆矩阵](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec03-乘法和逆矩阵.pdf)
+* [Lec04-A的LU分解](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec04-A的LU分解.pdf)
 
 ### 他人笔记
 
