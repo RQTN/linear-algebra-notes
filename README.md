@@ -13,10 +13,10 @@
 * [Lec02-矩阵消元](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec02-矩阵消元.pdf)
 * [Lec03-乘法和逆矩阵](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec03-乘法和逆矩阵.pdf)
 * [Lec04-A的LU分解](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec04-A的LU分解.pdf)
-* [Lec05-转置、置换和向量空间 R](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec05-转置、置换和向量空间 R.pdf)
+* [Lec05-转置、置换和向量空间 R](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec05-%E8%BD%AC%E7%BD%AE%E3%80%81%E7%BD%AE%E6%8D%A2%E5%92%8C%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4%20R.pdf)
 * [Lec06-列空间和零空间](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec06-列空间和零空间.pdf)
-* [Lec07-求解 Ax=0：主变量，特解]([https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec07-%E6%B1%82%E8%A7%A3%20Ax%3D0%20%EF%BC%9A%E4%B8%BB%E5%8F%98%E9%87%8F%EF%BC%8C%E7%89%B9%E8%A7%A3.pdf](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec07-求解 Ax%3D0 ：主变量，特解.pdf))
-* [Lec08-求解 Ax=b ：可解性和解的结构](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec08-求解 Ax%3Db ：可解性和解的结构.pdf)
+* [Lec07-求解 Ax=0：主变量，特解](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec07-%E6%B1%82%E8%A7%A3%20Ax%3D0%20%EF%BC%9A%E4%B8%BB%E5%8F%98%E9%87%8F%EF%BC%8C%E7%89%B9%E8%A7%A3.pdf)
+* [Lec08-求解 Ax=b ：可解性和解的结构](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec08-%E6%B1%82%E8%A7%A3%20Ax%3Db%20%EF%BC%9A%E5%8F%AF%E8%A7%A3%E6%80%A7%E5%92%8C%E8%A7%A3%E7%9A%84%E7%BB%93%E6%9E%84.pdf)
 
 ### 他人笔记
 
