@@ -18,6 +18,9 @@
 * [Lec07-求解 Ax=0：主变量，特解](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec07-%E6%B1%82%E8%A7%A3%20Ax%3D0%20%EF%BC%9A%E4%B8%BB%E5%8F%98%E9%87%8F%EF%BC%8C%E7%89%B9%E8%A7%A3.pdf)
 * [Lec08-求解 Ax=b ：可解性和解的结构](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec08-%E6%B1%82%E8%A7%A3%20Ax%3Db%20%EF%BC%9A%E5%8F%AF%E8%A7%A3%E6%80%A7%E5%92%8C%E8%A7%A3%E7%9A%84%E7%BB%93%E6%9E%84.pdf)
 
+* [Lec09-线性相关性、基和维数](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec09-%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E6%80%A7%E3%80%81%E5%9F%BA%E5%92%8C%E7%BB%B4%E6%95%B0.pdf)
+* [Lec10-四个基本子空间](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec10-%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
+
 ### 他人笔记
 
 * [apachecn 18.06-linalg-notes Github](https://github.com/apachecn/18.06-linalg-notes)
