@@ -23,6 +23,12 @@
 * [Lec12-图和网络](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec12-%E5%9B%BE%E5%92%8C%E7%BD%91%E7%BB%9C.pdf)
 * [Lec13-复习一](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec13-%E5%A4%8D%E4%B9%A0%E4%B8%80.pdf)
 
+* [Unit 1 Exam & Solutions](https://github.com/RQTN/linear-algebra-notes/blob/master/lecture-summary/18.06SC Unit 1 Exam Solutions.pdf)
+
+#### Unit 2
+
+* [Lec14-正交向量与子空间](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec14-%E6%AD%A3%E4%BA%A4%E5%90%91%E9%87%8F%E4%B8%8E%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
+
 ### 他人笔记
 
 * [apachecn 18.06-linalg-notes Github](https://github.com/apachecn/18.06-linalg-notes)
