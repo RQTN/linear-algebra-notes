@@ -21,7 +21,7 @@
 * [Lec10-四个基本子空间](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec10-%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
 * [Lec11-矩阵空间、秩 1 矩阵和小世界图](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec11-%E7%9F%A9%E9%98%B5%E7%A9%BA%E9%97%B4%E3%80%81%E7%A7%A9%201%20%E7%9F%A9%E9%98%B5%E5%92%8C%E5%B0%8F%E4%B8%96%E7%95%8C%E5%9B%BE.pdf)
 * [Lec12-图和网络](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec12-%E5%9B%BE%E5%92%8C%E7%BD%91%E7%BB%9C.pdf)
-* [Lec13-复习一](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec13-%E5%A4%8D%E4%B9%A0%E4%B8%80.pdf)
+* [Lec13-复习一](https://github.com/RQTN/linear-algebra-notes/blob/master/lecture-summary/18.06SC%20Unit%201%20Exam%20Solutions.pdf)
 
 * [Unit 1 Exam & Solutions](https://github.com/RQTN/linear-algebra-notes/blob/master/lecture-summary/18.06SC Unit 1 Exam Solutions.pdf)
 
