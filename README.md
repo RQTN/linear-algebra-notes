@@ -27,6 +27,8 @@
 #### Unit 2
 
 * [Lec14-正交向量与子空间](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec14-%E6%AD%A3%E4%BA%A4%E5%90%91%E9%87%8F%E4%B8%8E%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
+* [Lec15-子空间投影](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec15-%E5%AD%90%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1.pdf)
+* [Lec16-投影矩阵和最小二乘法](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95.pdf)
 
 ### 他人笔记
 
