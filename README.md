@@ -33,6 +33,8 @@
 * Lec18-行列式及其性质: [Blog](https://rqtn.github.io/2019/08/12/LA-Lec18/) | [Github-PDF](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec18-%E8%A1%8C%E5%88%97%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.pdf)
 * Lec19-行列式公式和代数余子式: [Blog](https://rqtn.github.io/2019/08/12/LA-Lec19/) | [Github-PDF](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec19-%E8%A1%8C%E5%88%97%E5%BC%8F%E5%85%AC%E5%BC%8F%E5%92%8C%E4%BB%A3%E6%95%B0%E4%BD%99%E5%AD%90%E5%BC%8F.pdf)
 * Lec20-克拉默法则、逆矩阵、体积: [Blog](https://rqtn.github.io/2019/08/31/LA-Lec20/) | [Github-PDF](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec20-%E5%85%8B%E6%8B%89%E9%BB%98%E6%B3%95%E5%88%99%E3%80%81%E9%80%86%E7%9F%A9%E9%98%B5%E3%80%81%E4%BD%93%E7%A7%AF.pdf)
+* Lec21-特征值和特征向量：[Blog](https://rqtn.github.io/2019/09/01/LA-Lec21) | [Github-PDF](https://github.com/RQTN/linear-algebra-notes/blob/master/notes/Lec21-%E7%89%B9%E5%BE%81%E5%80%BC%E5%92%8C%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F.pdf)
+
 ### 他人笔记
 
 * [apachecn 18.06-linalg-notes Github](https://github.com/apachecn/18.06-linalg-notes)
